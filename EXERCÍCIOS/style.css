@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+    font-size: 23px;
+    color: #00008b;
+}
+section{
+    margin: auto;
+    width: 500px;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+}
+footer{
+    text-align: center;
+    text-shadow: 10px 10px 15px white;
+    color: black;
+    font-size: 18px;    
+}
+#inp1{
+    margin-left: 164px;
+    border-radius: 15px;
+}
+div{
+    text-align: center;
+    padding: 5px;
+}
+h2{
+    color: #ffffff;
+    text-shadow: black 10px 10px 15px;
+    font-family: 'Times New Roman', Times, serif
+}
+#mensagem{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    text-shadow: 10px 10px 15px rgb(67, 67, 67);
+}
